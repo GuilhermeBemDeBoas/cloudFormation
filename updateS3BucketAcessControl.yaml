@@ -1,0 +1,6 @@
+Resources:
+  myS3Resource:
+    Type: "AWS::S3::Bucket"
+    Properties:
+      AccessControl: "PublicRead"
+      BucketName: "first-s3-bucket-1234567-rere-3423"
