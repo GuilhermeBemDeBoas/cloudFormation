@@ -1,2 +1,2 @@
 # cloudFormation
-Estudo sobre AWS cloud formation
+Repositorio de estudo do curso AWS ClooudFormation Master Class
